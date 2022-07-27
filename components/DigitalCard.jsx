@@ -143,7 +143,7 @@ const DigitalCard = () => {
                 </svg>
 
                 <a
-                  href="https://www.instagram.com/techakhil.me/"
+                  href="https://www.instagram.com/befas.offical/"
                   target="_blank"
                   className="text-base leading-none text-#d9d9d9"
                 >
@@ -177,7 +177,7 @@ const DigitalCard = () => {
                 </svg>
 
                 <a
-                  href="https://www.techakhil.me/"
+                  href="www.befastm.com"
                   target="_blank"
                   className="text-base leading-none text-#d9d9d9"
                 >
