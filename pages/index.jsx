@@ -135,7 +135,7 @@ const Index = () => {
             </motion.div>
             <motion.div
               variants={itemRight}
-              className="absolute h-screen overflow-hidden lg:90 top-50 lg:top-0 w-90 lg:w-6/12 col-span-full lg:right-12 h-90"
+              className="absolute overflow-hidden h-screen lg:h-screen top-32 lg:top-0 w-full lg:w-6/12 col-span-full lg:right-12 h-full"
             >
               <RhetoricianModel setLoading={setLoading} />
             </motion.div>
@@ -235,7 +235,7 @@ const Index = () => {
                 <br />
                 You will get 5%,10%,15% discount for your next purchase.
                 <br />
-                CONNECT WITH BEFAS 
+                CONNECT WITH BEFAS
               </div>
               <SocialTray />
             </div>
