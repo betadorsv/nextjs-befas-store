@@ -33,9 +33,9 @@ const Footer = () => {
           </p>
         </div>
 
-        {/* <div className="text-sm font-medium flex flex-col md:flex-row tracking-widest leading-snug text-right text-gray-100 uppercase items-center">
-          <span className="text-center">Designed and developed with</span>
-          <span
+        <div className="text-sm font-medium flex flex-col md:flex-row tracking-widest leading-snug text-right text-gray-100 uppercase items-center">
+          {/* <span className="text-center">Copyright by</span>{""} */}
+          {/* <span
             onClick={() => {
               setEasterEgg(!EasterEgg);
               setOnce(false);
@@ -365,9 +365,9 @@ const Footer = () => {
                 </motion.span>
               )}
             </a>
-          </span>
-          <span> techakhil</span>
-        </div> */}
+          </span> */}
+          <span>Ⓒ TRAN TRI VIEN. All Rights Reserved</span>
+        </div>
       </div>
     </>
   );
