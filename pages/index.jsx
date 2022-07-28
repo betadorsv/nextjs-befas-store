@@ -220,7 +220,7 @@ const Index = () => {
               <div>
                 <div className="CardHolder grid place-content-center">
                   <DigitalCard />
-                  <Link href="/about">
+                  <Link href="/#">
                     <Image src={QrCodeBefas} height="300" width="300" />
                     {/* <QrCode /> */}
                   </Link>
