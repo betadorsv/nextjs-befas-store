@@ -92,6 +92,7 @@ useGLTF.preload("/scene.gltf");
 export default function RhetoricianModel({ setLoading }) {
   return (
     <Image
+      className="transition ease-in-out delay-150 bg-black-500 duration-300"
       src={Model}
       alt="Picture of the author"
       layout="responsive"

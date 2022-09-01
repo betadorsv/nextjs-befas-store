@@ -63,7 +63,7 @@ const DigitalCard = () => {
                   </g>
                 </svg>
                 <a
-                  href="mailto:akhil07pc@gmail.com?subject=Hi%20I%20saw%20your%20website&body=Got%20something%20?"
+                  href="mailto:chamsockh@befastm.com"
                   className="text-base leading-none text-#d9d9d9"
                 >
                   chamsockh@befastm.com
@@ -143,7 +143,7 @@ const DigitalCard = () => {
                 </svg>
 
                 <a
-                  href="https://www.instagram.com/befas.offical/"
+                  href="https://www.instagram.com/befas.official/"
                   target="_blank"
                   className="text-base leading-none text-#d9d9d9"
                 >
@@ -177,7 +177,7 @@ const DigitalCard = () => {
                 </svg>
 
                 <a
-                  href="www.befastm.com"
+                  href="https://www.befastm.com"
                   target="_blank"
                   className="text-base leading-none text-#d9d9d9"
                 >
@@ -203,7 +203,7 @@ const DigitalCard = () => {
                     strokeLinejoin="round"
                   />
                 </svg>
-                <a href="tel:+917977675557" className="text-base leading-none">
+                <a href="tel:+00362553010" className="text-base leading-none">
                   +84 362553010
                 </a>
               </div>
